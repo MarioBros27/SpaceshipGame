@@ -171,7 +171,7 @@ int main()
 {
     ocultarCursor();
     pintar_limites();
-    NAVE N(38,26,4);
+    NAVE N(38,26,3);
     N.pintar();
     N.contar_vidas();
 
